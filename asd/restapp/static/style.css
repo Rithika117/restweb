@@ -1,0 +1,102 @@
+style.css
+
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Header Section */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #222;
+    color: #fff;
+}
+
+header .logo {
+    display: flex;
+    align-items: center;
+}
+
+header .logo img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    text-align: center;
+    color: #fff;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+    opacity: 0.8;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem;
+}
+
+.overlay-text h2 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+/* Features Section */
+.features {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.feature-card {
+    text-align: center;
+    padding: 10px;
+    background-color: #fdf0d5;
+    border-radius: 10px;
+    width: 30%;
+}
+
+.feature-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+h3 {
+    margin: 10px 0;
+    font-size: 1.5rem;
+    color: #222;
+}
