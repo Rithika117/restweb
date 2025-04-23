@@ -370,10 +370,11 @@ h3 {
 }
 ```
 ## OUTPUT:
-asd/Screenshot 2025-04-23 003952.png
-asd/Screenshot 2025-04-23 004011.png
-asd/Screenshot 2025-04-23 004036.png
-asd/Screenshot 2025-04-23 004050.png
+![Screenshot 2025-04-23 004011-1](https://github.com/user-attachments/assets/fd272349-4b1a-4c10-a96e-e3418baffd5e)
+![Screenshot 2025-04-23 004050](https://github.com/user-attachments/assets/5c5880cb-f822-4268-aba5-3101ef495631)
+![Screenshot 2025-04-23 004036-1](https://github.com/user-attachments/assets/60684078-c71a-415c-b135-27994238d9cd)
+![Screenshot 2025-04-23 004011-1](https://github.com/user-attachments/assets/53f68f62-51b7-4dee-8803-8465d37f14ca)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
